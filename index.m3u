@@ -2621,3 +2621,68 @@ http://fortv.cc:8080/live/A5aaXj/235081/56410.m3u8
 # EXTGRP : Latino
 # EXTVLCOPT : almacenamiento en caché de red = 1000
 http://fortv.cc:8080/live/A5aaXj/235081/139757.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/vnC7J/3851e472fd.png" group-title="Infantiles", El Chavo del 8 24/7
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/4848.m3u8
+
+#EXTINF:-1 tvg-logo="https://puu.sh/xafKk/eee533500f.png" group-title="Infantiles", Chapulin Colorado 24/7
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/11450.m3u8
+
+#EXTINF:-1 tvg-logo="https://puu.sh/xh3k9/28828ab2ca.png" group-title="Infantiles", Super Campeones 24/7
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/11425.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lmA23L3.png" group-title="Infantiles", X-MEN 24/7
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/14158.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9KPRzuJ.jpg" group-title="Infantiles", BOB ESPONJA 24/7
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/4840.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wI5NQWY.png" group-title="Infantiles", LOONEY TOONS 24/7
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/14130.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/s2xL8/b732aa9e6c.png" group-title="Infantiles", Los Simpson 24/7
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/5571.m3u8
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-T7fVLjq1Lrw/UHO4vet_yNI/AAAAAAAACto/nQpIQ6IowzQ/s1600/tom-e-jerry-anmtv.jpg" group-title="Infantiles", Tom y Jerry 24/7
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/7908.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UU5lU5q.png" group-title="Infantiles", LOS PICAPIEDRA 24/7
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/11433.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/_9qZScR42z3g/TJT2Xo_8xVI/AAAAAAAAJvE/stvZnnUl4I0/s400/index.jpg" group-title="Infantiles", LA PANTERA ROSA 24/7
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/6037.m3u8
+
+#EXTINF:-1 tvg-logo="https://app.mxl-iptv.tv/logos_tv/4e9746ae8c4689f2c996cf79fc1df357.jpg" group-title="Infantiles",Cantinflas
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/14143.m3u8
+
+#EXTINF:-1 tvg-logo="http://images6.fanpop.com/image/photos/35500000/Scooby-doo-yumi-ishiyama-35546722-500-500.png" group-title="Infantiles",Scooby-Doo
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/14131.m3u8
+
+#EXTINF:-1 tvg-logo="https://seriestvinfo.files.wordpress.com/2018/07/0115-e1532104434926.jpg" group-title="Infantiles", MR BEAN 24/7
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/14144.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.ionlitio.com/images/2012/02/dinosaurios-la-serie-logo.jpg" group-title="Infantiles", Dinosaurios 24/7
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/14155.m3u8
+
+#EXTINF:-1 tvg-logo="https://puu.sh/xh3eu/503d8c2925.png" group-title="Infantiles", El Principel del Rap 24/7
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/7907.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/4/43/ALF-animatedtitle.jpg" group-title="Infantiles", ALF 24/7
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/4844.m3u8
+
+#EXTINF:-1, El tunel del tiempo 24/7
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/11444.m3u8
+
+#EXTINF:-1, Bewitched Hechizada 24/7
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/11460.m3u8
+
+#EXTINF:-1, Perdidos en el Espacio
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/11429.m3u8
+
+#EXTINF:-1, La Familia Addams
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/11438.m3u8
+
+#EXTINF:-1, La Familia Monster
+http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/11437.m3u8
+
+
