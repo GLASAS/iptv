@@ -61,3 +61,18 @@ http://23.153.217.158:8080/963106051tv/i6789pxan/349
 #EXTINF:-1 tvg-id="NoticiasRCN.co@SD" tvg-logo="https://i.imgur.com/FMX4QCM.png" group-title="→ 1. NACIONALES ←",Noticias RCN (720p)
 https://jmp2.uk/plu-67d9b0ebc290c9499046e88f.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="La noche del demonio: Estan entre nosotros (2026) CAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e39otwsMlSNLflKeQsmdbcl0ZQ9.jpg" group-title="→ VOD CAM 2026 ←",La noche del demonio: Estan entre nosotros (2026) CAM
+http://myultratv.com:8080/movie/56988965887tv/TurPcTnKeRaa/285026.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="La noche del demonio: La puerta roja (2023) CAST" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wD4eLIHUaTvrXQqAzlfduHQ1NYg.jpg" group-title="→ VOD CASTELLANO 2023 ←",La noche del demonio: La puerta roja (2023) CAST
+http://myultratv.com:8080/movie/56988965887tv/TurPcTnKeRaa/65883.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="La Noche del Demonio" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pJeZUOcPvuAd5zBNPm7VcIJWZuT.jpg" group-title="→ VOD TERROR ←",La Noche del Demonio
+http://myultratv.com:8080/movie/56988965887tv/TurPcTnKeRaa/281694.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="La Noche del Demonio: La puerta roja " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/im4yhz8A9LvXgu1nBPSIBtaBIf6.jpg" group-title="→ VOD TERROR ←",La Noche del Demonio: La puerta roja 
+http://myultratv.com:8080/movie/56988965887tv/TurPcTnKeRaa/281618.mkv
+
+
+
+
