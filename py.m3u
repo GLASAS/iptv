@@ -93,3 +93,7 @@ http://191.97.55.72:8000/play/a0045/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Toy Story 5 (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zkQmhKTszD48vEcjIfwAlqLnGSr.jpg" group-title="→ VOD ESTRENOS 2026 ←",Toy Story 5 (2026)
 http://myultratv.com:8080/movie/56988965887tv/TurPcTnKeRaa/285736.mkv
 
+#EXTINF:-1 tvg-id="" tvg-name="Coyote vs. Acme (2026) " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e4P8CIoffzsyjTm9e6U87Mng2CU.jpg" group-title="→ VOD CAM 2026 ←",Coyote vs. Acme (2026) 
+http://myultratv.com:8080/movie/56988965887tv/TurPcTnKeRaa/285470.mp4
+
+
